@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DB_Testing1 {
-	
+	//Selenium connect to Mysql database Date 17-12-23
 	public static void main(String args[]) throws ClassNotFoundException, SQLException {
 		
 
