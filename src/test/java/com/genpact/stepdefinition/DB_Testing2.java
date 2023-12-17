@@ -11,6 +11,7 @@ public class DB_Testing2 {
 	
 	
 	//Connection with Database Date//3-12-2023
+	//My DB Automation
 	
 	public static void main(String args[]) throws ClassNotFoundException, SQLException {
 		
